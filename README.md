@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus Mendes Araujo</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="left">Hi 👋, I'm Matheus Mendes Araujo</h1>
+<h3 align="left">Data Analyst</h3>
 
 - Data Analyst with 3+ years of experience in the financial market. Strongly focused on developing data-driven teams, enabling data consumption for management teams, facilitating the use of agile methodologies, and generating insights to solve problems aiming to delight the customer.
 
