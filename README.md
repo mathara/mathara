@@ -1,5 +1,19 @@
-<h1 align="left">Hi there, I'm Matheus Mendes Araujo 👋 </h1>
+<p align="center">
+  <img src="assets/wide-header.gif" alt="Oi, eu sou a Matheus">
+</p>
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
+<!--
+<h1 align="left">Hi there, I'm Matheus Mendes Araujo 👋 </h1>
+-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-matheusmnda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmnda/)](https://www.linkedin.com/in/matheusmnda/)
 [![Gmail Badge](https://img.shields.io/badge/-mendesmattheus-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mendesmattheus@gmail.com)](mailto:mendesmattheus@gmail.com)
