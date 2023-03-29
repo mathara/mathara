@@ -1,5 +1,6 @@
-<h1 align="left">Hi 👋, I'm Matheus Mendes Araujo</h1>
-<h3 align="left">Data Analyst</h3>
+<h1 align="left">Hi, I'm Matheus Mendes Araujo 👋 </h1>
+
+<h3 align="left"> A Little about me:</h3>
 
 - Data Analyst with 3+ years of experience in the financial market. Strongly focused on developing data-driven teams, enabling data consumption for management teams, facilitating the use of agile methodologies, and generating insights to solve problems aiming to delight the customer.
 
@@ -8,6 +9,7 @@
 - 💬 Ask me about **SQL, Pyspark, Data modeling, Excel and Powerbi.**
 
 - 📫 How to reach me **mendesmattheus@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
