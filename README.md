@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wide-header.gif" alt="Oi, eu sou a Matheus">
+  <img src="assets/correct-wide-header.gif" alt="Oi, eu sou a Matheus">
 </p>
 
 <!--
